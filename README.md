@@ -1,7 +1,6 @@
 
-<h2 align="center"><b>Owner: <a href="https://t.me/godkiller_mark2_sinx">~`••THIR••~~ 🇮🇳</a></b></h2>
+<h2 align="center"><b>Owner: <a href="https://t.me/godkiller_mark2_sinx">~`••THOR••~~ 🇮🇳</a></b></h2>
 <br>
-<p align="center"><a href="https://t.me/lightning_support_group"><img src="https://telegra.ph/file/07d55d71944a852ac6d5e.jpg"></a></p> 
 </p>
 <h1>X-USERBOT</h1>
 <b>A Powerful, Smart And Simple Userbot In Telethon.</b>
