@@ -65,8 +65,8 @@ async def start(event):
             link_preview=False,
             buttons=[
                 [custom.Button.inline("Deploy your BL ", data="deploy")],
-                [Button.url("Help Me ❓", "https://t.me/lightning_support_group")],
-                [Button.url("Lightning Web💫", "https://lightninguserbot.blogspot.com")],
+                [Button.url("Help Me ❓", "https://t.me/daisy_johnson_support")],
+                [Button.url("Lightning Web💫", "https://github.com/powerofavenger/sinneruserbot")],
             ],
         )
 
@@ -80,16 +80,10 @@ async def help(event):
     if event.query.user_id is not bot.uid:
         await tgbot.send_message(
             event.chat_id,
-            message="You Can Deploy Black Lightning In Heroku By Following Steps Bellow, You Can See Some Quick Guides On Support Channel Or On Your Own Assistant Bot. \nThank You For Contacting Me.",
+            message="You Can Deploy X-USERBOT In Heroku By Following Steps Bellow, You Can See Some Quick Guides On Support Channel Or On Your Own Assistant Bot. \nThank You For Contacting Me.",
             buttons=[
-                [
-                    Button.url(
-                        "Deploy Tutorial 📺",
-                        "https://www.youtube.com/watch?v=GfZMqrCAqxI",
-                    )
-                ],
-                [Button.url("Need Help ❓", "https://t.me/lightning_support_group")],
-                [Button.url("Lightning Web💫", "https://lightninguserbot.blogspot.com")],
+                [Button.url("Need Help ❓", "https://t.me/daisy_johnson_support")],
+                [Button.url("Lightning Web💫", "https://github.com/powerofavenger/sinneruserbot")],
             ],
         )
 
