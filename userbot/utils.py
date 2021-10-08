@@ -793,7 +793,7 @@ def start_assistant(shortname):
         sys.modules[
             "userbot.plugins.assistant" + "Initialising Lightning" + shortname
         ] = mod
-        sedprint.info("Lightning Has imported " + shortname)
+        sedprint.info("X-USERBOT Has imported " + shortname)
 
 
 def load_assistant(shortname):
@@ -823,4 +823,4 @@ def load_assistant(shortname):
         mod.tgbot = bot.tgbot
         spec.loader.exec_module(mod)
         sys.modules["userbot.plugins.assistant." + shortname] = mod
-        print("Lightning Has imported " + shortname)
+        print("X-USERBOT Has imported " + shortname)
